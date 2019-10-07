@@ -8,3 +8,5 @@ cd photo-gallery-api
 npm install
 npm start
 ```
+
+Me salió este error al intentar uzarla, disculpa por editar este archivo :( 
